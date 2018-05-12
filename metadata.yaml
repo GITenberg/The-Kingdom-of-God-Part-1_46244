@@ -1,0 +1,29 @@
+_repo: The-Kingdom-of-God-Part-1_46244
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46244-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pratt, Orson
+    birthdate: 1811
+    deathdate: 1881
+    gutenberg_agent_id: '42981'
+    url: http://www.gutenberg.org/2009/agents/42981
+    wikipedia: http://en.wikipedia.org/wiki/Orson_Pratt
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2014-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- Doctrines'
+- !lcsh 'Priesthood -- Mormon Church'
+title: The Kingdom of God, Part 1
+url: http://www.gutenberg.org/ebooks/46244
