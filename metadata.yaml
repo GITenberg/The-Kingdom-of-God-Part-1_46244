@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42981
     wikipedia: http://en.wikipedia.org/wiki/Orson_Pratt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46244#The-Kingdom-of-God-Part-1
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-07-10'
 gutenberg_type: Text
